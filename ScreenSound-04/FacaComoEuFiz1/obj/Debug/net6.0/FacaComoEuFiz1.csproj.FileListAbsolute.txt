@@ -1,0 +1,14 @@
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\bin\Debug\net6.0\FacaComoEuFiz1.exe
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\bin\Debug\net6.0\FacaComoEuFiz1.deps.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\bin\Debug\net6.0\FacaComoEuFiz1.runtimeconfig.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\bin\Debug\net6.0\FacaComoEuFiz1.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\bin\Debug\net6.0\FacaComoEuFiz1.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.AssemblyInfoInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.AssemblyInfo.cs
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.csproj.CoreCompileInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\refint\FacaComoEuFiz1.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\FacaComoEuFiz1.genruntimeconfig.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\FacaComoEuFiz1\obj\Debug\net6.0\ref\FacaComoEuFiz1.dll

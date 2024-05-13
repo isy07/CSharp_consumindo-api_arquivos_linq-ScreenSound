@@ -1,0 +1,14 @@
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\bin\Debug\net6.0\DesafioAula4-4.exe
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\bin\Debug\net6.0\DesafioAula4-4.deps.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\bin\Debug\net6.0\DesafioAula4-4.runtimeconfig.json
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\bin\Debug\net6.0\DesafioAula4-4.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\bin\Debug\net6.0\DesafioAula4-4.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.AssemblyInfoInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.AssemblyInfo.cs
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.csproj.CoreCompileInputs.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\refint\DesafioAula4-4.dll
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.pdb
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\DesafioAula4-4.genruntimeconfig.cache
+C:\Users\layse.lima\OneDrive - JM Confitec Sistemas de Computação LTDA\Área de Trabalho\Treinamentos\dotnet_web_api\ScreenSound-04\DesafioAula4-4\obj\Debug\net6.0\ref\DesafioAula4-4.dll
